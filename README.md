@@ -23,6 +23,11 @@
 
 Customize it to fit your needs and make the project your own!
 
+##upload product video for showing exaple of repo
+
+https://github.com/SIRI2003-CSE/Money-Tracker-main/assets/159783434/5e434ecb-e47f-4925-9fa2-c63aa37d18e1
+
+
 
 ### Prerequisites
 
